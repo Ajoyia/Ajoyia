@@ -1,9 +1,8 @@
 # Hi 👋, I'm Abdullah
 
 🚀 Full Stack Developer (Laravel + Vue.js)  
-💼 5+ Years Experience  
-    Actively seeking opportunities  
-🌍 Open to Remote & Relocation  
+💼 5+ Years Experience   
+🌍 Open to Remote Opportunities   
 
 ---
 
