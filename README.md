@@ -51,13 +51,6 @@ I focus on developing clean, maintainable architectures and delivering high-perf
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AJoyiaE&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJoyiaE&layout=compact)
-
----
-
 ## 📫 Contact Me
 
 📧 Email: abdullahjoyia502@gmail.com  
