@@ -22,12 +22,13 @@ I focus on developing clean, maintainable architectures and delivering high-perf
 
 ## 🛠️ Tech Stack
 
-**Backend:** Laravel, PHP, REST APIs, MVC Architecture  
+**Backend:** Laravel, PHP, REST APIs, MVC Architecture, RabbitMQ  
 **Frontend:** Vue.js, Blade, JavaScript (ES6+)  
 **UI:** Tailwind CSS, Bootstrap  
 **Database:** MySQL, PostgreSQL, MariaDB  
-**Tools:** Git, Docker, Cursor AI  
-**Others:** API Integration, Authentication, Payment Systems  
+**Cloud & DevOps:** AWS, Docker  
+**Tools:** Git, Cursor AI  
+**Others:** API Integration, Authentication, Payment Systems   
 
 ---
 
