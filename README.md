@@ -18,12 +18,14 @@ I'm a Full Stack Developer building scalable, production-ready web applications 
 
 ## 🛠️ Tech Stack
 
-**Backend:** Laravel, PHP, REST APIs, GraphQL, Redis, queues, PHPUnit/Pest
-**Frontend:** Vue.js, Nuxt.js, React, Next.js, TypeScript, JavaScript (ES6+), Blade, Livewire, Inertia
-**UI:** Tailwind CSS, Bootstrap
-**Database:** MySQL, PostgreSQL, MariaDB
-**Cloud & DevOps:** AWS, Docker, Nginx, CI/CD
-**Tools:** Git, Cursor AI
+## 🛠️ Tech Stack
+
+- **Backend:** Laravel, PHP, REST APIs, GraphQL, Redis, queues, PHPUnit/Pest
+- **Frontend:** Vue.js, Nuxt.js, React, Next.js, TypeScript, JavaScript (ES6+), Blade, Livewire, Inertia
+- **UI:** Tailwind CSS, Bootstrap
+- **Database:** MySQL, PostgreSQL, MariaDB
+- **Cloud & DevOps:** AWS, Docker, Nginx, CI/CD
+- **Tools:** Git, Cursor AI, Claude
 
 ---
 
