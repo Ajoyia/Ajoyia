@@ -1,7 +1,9 @@
 # Hi 👋, I'm Abdullah
 
 🚀 Full Stack Developer · Laravel · Vue.js · React · Next.js
+
 💼 6 years of experience
+
 🌍 Based in Lahore · open to onsite, hybrid and remote roles
 
 ---
@@ -15,8 +17,6 @@ I'm a Full Stack Developer building scalable, production-ready web applications 
 - Third-party and payment integrations (Stripe, N-Genius)
 
 ---
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
