@@ -55,6 +55,6 @@ I'm a Full Stack Developer building scalable, production-ready web applications 
 
 ## 📫 Contact
 
-📧 abdullahjoyia502@gmail.com
-💼 https://www.linkedin.com/in/abdullah-joyia-9607491aa/
-🐙 https://github.com/Ajoyia
+- 📧 [abdullahjoyia502@gmail.com](mailto:abdullahjoyia502@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-joyia-9607491aa/)
+- 🐙 [GitHub](https://github.com/Ajoyia)
